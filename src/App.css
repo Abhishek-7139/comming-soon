@@ -1,7 +1,23 @@
+.App {
+	animation: fadeInUp 1.5s ease-in;
+	animation-delay: 100ms;
+}
+
+@keyframes fadeInUp {
+	0% {
+		transform: translateY(100vh);
+		opacity: 0;
+	}
+
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
 #hero {
 	font-size: 7rem;
 	font-weight: 500;
-	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	padding: 2rem;
 	padding-top: 4rem;
@@ -25,13 +41,6 @@
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-}
-
-@media only screen and (min-width: 732px) {
-	#content-details {
-		flex-direction: row;
-		justify-content: space-around;
-	}
 }
 
 #wheel1,
@@ -88,18 +97,15 @@
 }
 
 #comming-soon {
-	display: flex;
-	align-items: center;
-	justify-content: center;
 	margin: 1rem;
-}
-
-#comming-soon-text {
-	font-size: 5rem;
-	line-height: 5rem;
+	font-weight: 100;
+	font-size: 8rem;
+	line-height: 8rem;
 	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
 }
 
+/*
 .dots {
 	display: none;
 }
@@ -137,3 +143,4 @@
 .dots:nth-child(4) {
 	animation-delay: 0.8s;
 }
+*/

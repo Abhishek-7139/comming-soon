@@ -117,15 +117,17 @@ function App() {
 					</svg>
 				</div>
 				<div id='content-details'>
+					<div id='comming-soon'>
+						COMING SOON
+						{/*
+						<div className='dots'></div>
+						<div className='dots'></div>
+						<div className='dots'></div>
+						*/}
+					</div>
 					<div id='logos'>
 						<img className='logo' src={iosd} alt='IOSD' />
 						<img className='logo' src={nsut} alt='NSUT' />
-					</div>
-					<div id='comming-soon'>
-						<div id='comming-soon-text'>COMMING SOON</div>
-						<div className='dots'></div>
-						<div className='dots'></div>
-						<div className='dots'></div>
 					</div>
 				</div>
 			</div>
