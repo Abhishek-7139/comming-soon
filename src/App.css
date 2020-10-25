@@ -1,5 +1,5 @@
 .App {
-	animation: fadeInUp 1.5s ease-in;
+	animation: fadeInUp 2s ease-in-out;
 	animation-delay: 100ms;
 }
 
@@ -97,22 +97,21 @@
 }
 
 #comming-soon {
+	text-align: center;
 	margin: 1rem;
 	font-weight: 100;
-	font-size: 8rem;
-	line-height: 8rem;
-	text-align: center;
+	font-size: 9rem;
+	line-height: 9rem;
 	font-family: 'Ubuntu', sans-serif;
 }
 
-/*
 .dots {
 	display: none;
 }
 
-@media only screen and (min-width: 280px) {
+@media only screen and (min-width: 770px) {
 	.dots {
-		display: block;
+		display: inline-block;
 		border-radius: 50%;
 		background-color: #63bcff;
 		height: 1.5rem;
@@ -143,4 +142,3 @@
 .dots:nth-child(4) {
 	animation-delay: 0.8s;
 }
-*/

@@ -119,11 +119,9 @@ function App() {
 				<div id='content-details'>
 					<div id='comming-soon'>
 						COMING SOON
-						{/*
-						<div className='dots'></div>
-						<div className='dots'></div>
-						<div className='dots'></div>
-						*/}
+						<span className='dots'></span>
+						<span className='dots'></span>
+						<span className='dots'></span>
 					</div>
 					<div id='logos'>
 						<img className='logo' src={iosd} alt='IOSD' />
