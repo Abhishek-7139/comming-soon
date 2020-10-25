@@ -6,7 +6,7 @@ import './App.css';
 function App() {
 	return (
 		<div className='App'>
-			<div id='hero'>TECH TALKS</div>
+			<h1 id='hero'>TECH TALKS</h1>
 			<div id='content'>
 				<div id='content-svg'>
 					<svg
