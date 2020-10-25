@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/comming-soon/static/css/main.6bea4146.chunk.css",
-    "main.js": "/comming-soon/static/js/main.2b893c1c.chunk.js",
-    "main.js.map": "/comming-soon/static/js/main.2b893c1c.chunk.js.map",
+    "main.css": "/comming-soon/static/css/main.68afbb0a.chunk.css",
+    "main.js": "/comming-soon/static/js/main.bb24da3a.chunk.js",
+    "main.js.map": "/comming-soon/static/js/main.bb24da3a.chunk.js.map",
     "runtime-main.js": "/comming-soon/static/js/runtime-main.eb4c27ed.js",
     "runtime-main.js.map": "/comming-soon/static/js/runtime-main.eb4c27ed.js.map",
     "static/js/2.cd0c9b58.chunk.js": "/comming-soon/static/js/2.cd0c9b58.chunk.js",
     "static/js/2.cd0c9b58.chunk.js.map": "/comming-soon/static/js/2.cd0c9b58.chunk.js.map",
     "index.html": "/comming-soon/index.html",
-    "static/css/main.6bea4146.chunk.css.map": "/comming-soon/static/css/main.6bea4146.chunk.css.map",
+    "static/css/main.68afbb0a.chunk.css.map": "/comming-soon/static/css/main.68afbb0a.chunk.css.map",
     "static/js/2.cd0c9b58.chunk.js.LICENSE.txt": "/comming-soon/static/js/2.cd0c9b58.chunk.js.LICENSE.txt",
     "static/media/iosd.03ed2c60.png": "/comming-soon/static/media/iosd.03ed2c60.png",
     "static/media/nsut.33414252.png": "/comming-soon/static/media/nsut.33414252.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb4c27ed.js",
     "static/js/2.cd0c9b58.chunk.js",
-    "static/css/main.6bea4146.chunk.css",
-    "static/js/main.2b893c1c.chunk.js"
+    "static/css/main.68afbb0a.chunk.css",
+    "static/js/main.bb24da3a.chunk.js"
   ]
 }
